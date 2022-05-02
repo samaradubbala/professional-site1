@@ -1,0 +1,65 @@
+h3{
+
+}
+p{
+  line-height: 2;
+}
+.heading{
+padding-top: 50px;
+text-align: center;
+}
+.image-code{
+  float: left;
+  margin-right: 30px;
+  height: 100%;
+}
+.front-end{
+  line-height: 2;
+}
+.services{
+  padding-top: 50px;
+  color:#0AA1DD;
+}
+.service{
+
+  text-align: center;
+  background-color: #2155CD;
+  color:white;
+  padding: 50px 0 50px 0;
+}
+.services{
+  text-align: center;
+}
+.row{
+  padding: 50px;
+}
+.service-head{
+  text-align: center;
+  padding-bottom: 50px;
+}
+.color{
+  color: #006E7F;
+}.size{
+width: inherit;
+color:blue;
+}
+.footer-color{
+  background-color: #069A8E;
+
+}
+#title{
+  background-color: blue;
+padding: 20px 20px 20px 20px;
+
+}
+.color1{
+  color:white;
+}
+.ancher-color{
+    color:white;
+}
+.colors{
+  color: yellow;
+  text-align: center;
+  
+}
